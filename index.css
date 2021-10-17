@@ -3,7 +3,9 @@ html {
 }
 
 h1 {
+  padding-top:0px;
   color:#000080;
+  font-family: 'Castoro', serif;
 }
 
 h2 {
@@ -20,7 +22,7 @@ table, th, td {
   font-family: 'Castoro', serif;
 
 }
-h1, h3, h4, h5 {
+h3, h4, h5 {
     padding-top:30px;
     font-family: 'Castoro', serif;
     color:#000080;
